@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "SESATS9": {
+      "applicationId": "IA8yaT30ABJNMrrWp3Oud5KxN1OcrFx6wJYeuk9N"
+    },
+    "_default": {
+      "link": "SESATS9"
+    }
+  }
+}
